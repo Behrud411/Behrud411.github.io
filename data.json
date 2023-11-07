@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "nama": "Ecomers Parfum Laravel",
+      "image": "parfumLaravel.png",
+      "descripsi": "Scrip Ini Dibuat Dengan Laravel",
+      "link": "https://github.com/Tupai568/project-laravel-parfum"
+    },
+    {
       "nama": "Calculator",
       "image": "Calculator.png",
       "descripsi": "Mesin Penghitung Dengan HTML, CSS & Vanila JS",
