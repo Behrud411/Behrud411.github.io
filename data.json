@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "nama": "AL-QURAN",
+      "image": "ALQURAN.png",
+      "descripsi": "AL-QURAN ONLINE",
+      "link": "https://tupai568.github.io/QURAN/"
+    },
+    {
       "nama": "Ecomers Parfum Laravel",
       "image": "parfumLaravel.png",
       "descripsi": "Scrip Ini Dibuat Dengan Laravel",
